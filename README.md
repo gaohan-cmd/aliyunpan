@@ -12,5 +12,6 @@
   5、定时任务-》执行（查看日志是否成功）
 # aliyunpan_refresh_token获取
 获取阿里云盘refresh_token, 打开浏览器，登录[阿里云盘](https://www.aliyundrive.com/) 打开控制台DevTools(快捷键F12) -> 控制台输入JSON.parse(localStorage.getItem("token")).refresh_token，复制 refresh_token
-![image](https://github.com/gaohan-cmd/aliyunpan/assets/63499259/9600d1b4-584e-44b4-8f27-0cdf6813796e)
+![image](https://github.com/gaohan-cmd/aliyunpan/assets/63499259/c114063c-2016-4ff0-a957-8394afdb13bb)
+
 
